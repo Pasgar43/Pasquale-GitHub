@@ -1,0 +1,114 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/512px-Rai_1_-_Logo_2016.svg.png",Rai 1 (A)
+https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/512px-Rai_1_-_Logo_2016.svg.png",Rai 1 (B)
+https://viamotionhsi.netplus.ch/live/eds/rai1/browser-HLS8/rai1.m3u8?checkedby:iptvcat.com
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/512px-Rai_2_-_Logo_2016.svg.png",Rai 2 (A)
+https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/512px-Rai_2_-_Logo_2016.svg.png",Rai 2 (B)
+https://viamotionhsi.netplus.ch/live/eds/rai2/browser-HLS8/rai2.m3u8?checkedby:iptvcat.com
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/512px-Rai_3_-_Logo_2016.svg.png",Rai 3 (A)
+https://viamotionhsi.netplus.ch/live/eds/rai3/browser-dash/rai3.mpd?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/512px-Rai_3_-_Logo_2016.svg.png",Rai 3 (B)
+https://viamotionhsi.netplus.ch/live/eds/rai3/browser-HLS8/rai3.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/512px-Rai_3_-_Logo_2016.svg.png",Rai 3 (C)
+http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/512px-Rai_3_-_Logo_2016.svg.png",Rai 3 (D)
+http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/512px-Rai_3_-_Logo_2016.svg.png",Rai 3 (E)
+https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8?checkedby:iptvcat.com
+
+
+#EXTINF:-1 tvg-logo="https://api.superguidatv.it/v1/channels/189/logo?width=240",Rete 4 (A)
+https://viamotionhsi.netplus.ch/live/eds/rete4/browser-dash/rete4.mpd?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://api.superguidatv.it/v1/channels/189/logo?width=240",Rete 4 (B)
+https://viamotionhsi.netplus.ch/live/eds/rete4/browser-HLS8/rete4.m3u8?checkedby:iptvcat.com
+
+
+#EXTINF:-1 tvg-logo="https://api.superguidatv.it/v1/channels/187/logo?width=240",Canale 5 (A)
+https://viamotionhsi.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://api.superguidatv.it/v1/channels/187/logo?width=240",Canale 5 (B) 
+https://viamotionhsi.netplus.ch/live/eds/canale5/browser-HLS8/canale5.m3u8?checkedby:iptvcat.com
+
+
+#EXTINF:-1 tvg-logo="https://api.superguidatv.it/v1/channels/188/logo?width=240",Italia 1 (A)
+https://viamotionhsi.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://api.superguidatv.it/v1/channels/188/logo?width=240",Italia 1 (B)
+https://viamotionhsi.netplus.ch/live/eds/italia1/browser-HLS8/italia1.m3u8?checkedby:iptvcat.com
+
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/la7.png",LA7 (A)
+https://viamotionhsi.netplus.ch/live/eds/la7/browser-dash/la7.mpd?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/la7.png",LA7 (B)
+https://viamotionhsi.netplus.ch/live/eds/la7/browser-HLS8/la7.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F90mpSa.png",LA 7 (C)
+https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1500002NL_20241022T051646SQUARE.png",La 7 (TivùStream) 
+https://jmp2.uk/stvp-ITBD1500002NL
+
+
+#EXTINF:-1 tvg-logo="https://api.superguidatv.it/v1/channels/237/logo?width=120&theme=dark",Tv8 (FHD)
+https://uvotv.koyeb.app/proxy/https://live.uvotv.com/10010/live/hls/tv8/streams/sessions/1a2a806927ab4021ac740aa2f3ad1594/media/playlist-orig.m3u8/fstl=exp=1761571150~acl=%2F10010%2Flive%2Fhls%2Ftv8%2F%2A~hmac=5cff418e1db25d637fb23fb90fac30ddb22e88a2eafb943cf1661bc94db7fb61/0.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hp723RU.png",NOVE (FHD)
+https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y5pbi2sq9r609/NOVE_IT.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/it/NOVE.it.png",NOVE (FHD)(Tivusat)
+https://jmp2.uk/stvp-IT9000060Q
+
+
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-news-24-j6ydz0f2z08i.png",Rai News 24 (A)
+https://viamotionhsi.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-news-24-j6ydz0f2z08i.png",Rai News 24 (B)
+https://rainews2-live.akamaized.net/hls/live/598327/rainews2/rainews2/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61b86ea479a4390007c6d5fc/colorLogoPNG.png",Euronews (A)
+https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",Euronews (B)
+https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/e/25674/euronews-it.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zAZcSgz.png",TG Norba 24
+https://router.xdevel.com/video0s976570-1326/stream/playlist_dvr.m3u8?checkedby:iptvcat.com
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/02vCECa.png",LA C NEWS 24
+https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/qui-radio-londra-tv.png",Qui Radio Londra Tv
+https://load-balancer.azotosolutions.com/cdnedge6/smil:live6.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fqGn1k9.png", Camera dei Deputati
+https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h4NyN5d.png" ,Senato TV
+https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jVWPVvJ.png",Scherzi e risate Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609404b0a8ec810007d8de9d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY&checkedby:iptvcat.com
+
+
