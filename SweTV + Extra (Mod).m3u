@@ -1,0 +1,97 @@
+#EXTM3U
+
+#EXTM3U url-tvg="https://epg.best/2cbf-h55poo.xml.gz" x-tvg-url="https://epg.best/2cbf-h55poo.xml.gz"
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/512px-Rai_1_-_Logo_2016.svg.png",Rai 1 (FHD SweTV)
+http://swetv.best:8080/vEFstDxC4DqG/epbgQ298D7b7/50162
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/512px-Rai_1_-_Logo_2016.svg.png",Rai 1 (HD SweTV)
+http://swetv.best:8080/vEFstDxC4DqG/epbgQ298D7b7/977
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/512px-Rai_2_-_Logo_2016.svg.png",Rai 2 (FHD SweTV)
+http://swetv.best:8080/vEFstDxC4DqG/epbgQ298D7b7/50163
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/512px-Rai_3_-_Logo_2016.svg.png",Rai 3 (FHD SweTV)
+http://swetv.best:8080/vEFstDxC4DqG/epbgQ298D7b7/50164
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/512px-Rai_3_-_Logo_2016.svg.png",Rai 3 (HD SweTV)
+http://swetv.best:8080/vEFstDxC4DqG/epbgQ298D7b7/979
+
+
+#EXTINF:-1 tvg-logo="https://api.superguidatv.it/v1/channels/189/logo?width=240",Rete 4 (FHD SweTV)
+http://swetv.best:8080/vEFstDxC4DqG/epbgQ298D7b7/50167
+
+#EXTINF:-1 tvg-logo="https://api.superguidatv.it/v1/channels/189/logo?width=240",Rete 4 (HD SweTV)
+http://swetv.best:8080/vEFstDxC4DqG/epbgQ298D7b7/980
+
+
+#EXTINF:-1 tvg-logo="https://api.superguidatv.it/v1/channels/187/logo?width=240",Canale 5 (FHD SweTV)
+http://swetv.best:8080/vEFstDxC4DqG/epbgQ298D7b7/50168
+
+#EXTINF:-1 tvg-logo="https://api.superguidatv.it/v1/channels/187/logo?width=240",Canale 5 (HD SweTV)
+http://swetv.best:8080/vEFstDxC4DqG/epbgQ298D7b7/981
+
+
+#EXTINF:-1 tvg-logo="https://api.superguidatv.it/v1/channels/188/logo?width=240",Italia 1 (FHD SweTV)
+http://swetv.best:8080/vEFstDxC4DqG/epbgQ298D7b7/50169
+
+#EXTINF:-1 tvg-logo="https://api.superguidatv.it/v1/channels/188/logo?width=240",Italia 1 (HD SweTV)
+http://swetv.best:8080/vEFstDxC4DqG/epbgQ298D7b7/982
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F90mpSa.png",LA7 (FHD SweTv)
+http://swetv.best:8080/vEFstDxC4DqG/epbgQ298D7b7/80447
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F90mpSa.png",LA7 (HD SweTv)
+http://swetv.best:8080/vEFstDxC4DqG/epbgQ298D7b7/18721
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F90mpSa.png",LA7 (Extra)
+https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F90mpSa.png",La7 (Extra 2)
+https://jmp2.uk/stvp-ITBD1500002NL
+
+
+#EXTINF:-1 tvg-logo="https://api.superguidatv.it/v1/channels/237/logo?width=120&theme=dark",Tv8 (FHD SweTv)
+http://swetv.best:8080/vEFstDxC4DqG/epbgQ298D7b7/80446
+
+#EXTINF:-1 tvg-logo="https://api.superguidatv.it/v1/channels/237/logo?width=120&theme=dark",Tv8 (HD SweTv)
+http://swetv.best:8080/vEFstDxC4DqG/epbgQ298D7b7/18720
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hp723RU.png",NOVE (FHD SweTV)
+http://swetv.best:8080/vEFstDxC4DqG/epbgQ298D7b7/80500
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hp723RU.png",NOVE (HD SweTV)
+http://swetv.best:8080/vEFstDxC4DqG/epbgQ298D7b7/18685
+
+
+#EXTINF:-1 tvg-logo="https://it.wikipedia.org/wiki/File:LA7_Cinema_-_Logo_2025.png",LA7 Cinema (HD SweTv)
+http://swetv.best:8080/vEFstDxC4DqG/epbgQ298D7b7/983
+
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/skytg24.png",Sky TG 24
+http://swetv.best:8080/vEFstDxC4DqG/epbgQ298D7b7/8304
+
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-news-24-j6ydz0f2z08i.png",Rai News 24
+http://swetv.best:8080/vEFstDxC4DqG/epbgQ298D7b7/1013
+
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tgcom24.png",TGCOM 24 FHD
+http://swetv.best:8080/vEFstDxC4DqG/epbgQ298D7b7/80558
+
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tgcom24.png",TgCom24 FHD
+http://swetv.best:8080/vEFstDxC4DqG/epbgQ298D7b7/80457
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fqGn1k9.png",Camera dei Deputati
+https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h4NyN5d.png",Senato TV
+https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
+
+
+
+
+
